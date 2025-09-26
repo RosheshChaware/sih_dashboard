@@ -113,7 +113,7 @@ const AchievementBadges = ({ achievements }) => {
                 </div>
               </div>
             )}
-
+            {/* second commit */}
             {/* Tooltip */}
             <AnimatePresence>
               {hoveredBadge === achievement?.id && (
